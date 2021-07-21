@@ -6,7 +6,7 @@
 
 
 
-## 1、==git init==—————本地Git初始化
+## 1、git init—————本地Git初始化
 
 ```cd```进入项目路径
 
@@ -20,7 +20,7 @@ git init
 
 
 
-## 2、==git add==—————将文件添加到暂存区
+## 2、git add—————将文件添加到暂存区
 
 将添加项目文件添加到工作区后
 
@@ -44,7 +44,7 @@ git add *
 
 
 
-## 3、==git commit==—————将暂存区文件提交到Git库分支
+## 3、git commit—————将暂存区文件提交到Git库分支
 
 ```git
 git commit -m “提交说明”
@@ -64,7 +64,7 @@ git commit -a
 
 
 
-## 4、==git remote==—————将本地存储库连接到远程服务器
+## 4、git remote—————将本地存储库连接到远程服务器
 
 ```git
 git remote add [variable name] [Remote Server Link]
@@ -76,7 +76,7 @@ git remote add [variable name] [Remote Server Link]
 
 
 
-## 5、==git push==—————推送到您的远程存储库
+## 5、git push—————推送到您的远程存储库
 
 ```git
 `git push [variable name] master
