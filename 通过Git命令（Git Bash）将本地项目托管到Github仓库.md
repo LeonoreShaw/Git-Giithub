@@ -6,7 +6,7 @@
 
 
 
-## 1、git init—————本地Git初始化
+## 1、`git init`—————本地Git初始化
 
 ```cd```进入项目路径
 
@@ -20,7 +20,7 @@ git init
 
 
 
-## 2、git add—————将文件添加到暂存区
+## 2、`git add`—————将文件添加到暂存区
 
 将添加项目文件添加到工作区后
 
@@ -44,7 +44,7 @@ git add *
 
 
 
-## 3、git commit—————将暂存区文件提交到Git库分支
+## 3、`git commit`—————将暂存区文件提交到Git库分支
 
 ```git
 git commit -m “提交说明”
@@ -64,7 +64,7 @@ git commit -a
 
 
 
-## 4、git remote—————将本地存储库连接到远程服务器
+## 4、`git remote`—————将本地存储库连接到远程服务器
 
 ```git
 git remote add [variable name] [Remote Server Link]
@@ -76,7 +76,7 @@ git remote add [variable name] [Remote Server Link]
 
 
 
-## 5、git push—————推送到您的远程存储库
+## 5、`git push`—————推送到您的远程存储库
 
 ```git
 `git push [variable name] master
@@ -116,13 +116,13 @@ git push [variable name] :[branch name]
 
 ## 其他常用Git命令
 
-* ### ==**`ls`**==
+* ### **`ls`**
 
 显示当前目录所有文件
 
 
 
-* ### ==**`git clone `**==
+* ### **`git clone `**
 
 用法： `git clone [url]` 
 
@@ -130,7 +130,7 @@ git push [variable name] :[branch name]
 
 
 
-* ### ==**`git status `**==
+* ### **`git status `**
 
 此命令列出所有必须提交的文件。
 
@@ -144,7 +144,7 @@ git push [variable name] :[branch name]
 
 
 
-### * ==**`git checkout `**==
+### * **`git checkout `**
 
  `git checkout [branch name]` 
 
@@ -156,7 +156,7 @@ git push [variable name] :[branch name]
 
 
 
-### * ==**`git merge `**==
+### * **`git merge `**
 
 用法： `git merge [branch name]` 
 
@@ -164,13 +164,13 @@ git push [variable name] :[branch name]
 
 
 
-* ### ==**`git branch `**==
+* ### **`git branch `**
 
 此命令列出当前存储库中的所有本地分支。
 
 
 
-* ### ==**`git log `**==
+* ### **`git log `**
 
 此命令用于列出当前分支的版本历史记录。
 
