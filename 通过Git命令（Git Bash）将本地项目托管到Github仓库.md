@@ -86,6 +86,8 @@ git remote add [variable name] [Remote Server Link]
 
 ![image-20210721172434043](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721172434043.png?raw=true)
 
+![image-20210725172216305](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210725172216305.png?raw=true)
+
 ```git
  git push [variable name] [branch]
 ```
