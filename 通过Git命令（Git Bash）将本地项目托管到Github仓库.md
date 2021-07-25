@@ -24,7 +24,7 @@ git init
 
 将添加项目文件添加到工作区后
 
-![image-20210721165215893](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub\image-20210721165215893.png?raw=true)
+![image-20210721165215893](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721165215893.png?raw=true)
 
 ```git
 git add [file name]
@@ -32,7 +32,7 @@ git add [file name]
 
 此命令将文件添加到暂存区
 
-![image-20210721165308071](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub\image-20210721165308071.png?raw=true)
+![image-20210721165308071](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721165308071.png?raw=true)
 
 ```git
 git add *
@@ -40,7 +40,7 @@ git add *
 
 此命令将一个或多个添加到暂存区
 
-![image-20210721165340450](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub\image-20210721165340450.png?raw=true)
+![image-20210721165340450](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721165340450.png?raw=true)
 
 
 
@@ -52,7 +52,7 @@ git commit -m “提交说明”
 
 此命令在版本历史记录中永久记录或快照文件。
 
-![image-20210721170115273](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub\image-20210721170115273.png?raw=true)
+![image-20210721170115273](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721170115273.png?raw=true)
 
 ```git
 git commit -a
@@ -60,7 +60,7 @@ git commit -a
 
 此命令提交您使用 git add 命令添加的任何文件，并提交您从那时起更改的所有文件。
 
-![image-20210721171220360](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub\image-20210721171220360.png?raw=true)
+![image-20210721171220360](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721171220360.png?raw=true)
 
 
 
@@ -72,7 +72,7 @@ git remote add [variable name] [Remote Server Link]
 
 此命令用于将本地存储库连接到远程服务器。
 
-![image-20210721172203532](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub\image-20210721172203532.png?raw=true)
+![image-20210721172203532](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721172203532.png?raw=true)
 
 
 
@@ -84,7 +84,7 @@ git remote add [variable name] [Remote Server Link]
 
 此命令将 `master`分支的已提交更改发送到您的远程存储库。
 
-![image-20210721172434043](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub\image-20210721172434043.png?raw=true)
+![image-20210721172434043](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721172434043.png?raw=true)
 
 ```git
  git push [variable name] [branch]
