@@ -16,7 +16,7 @@ git init
 
 此命令用于启动一个新的存储库
 
-![image-20210721164340007](Git-GitHub/image-20210721164340007.png)
+![image-20210721164340007](https://github.com/LeonoreShaw/Images/blob/ReadmeFilesImages/Git-GitHub/image-20210721164340007.png?raw=true)
 
 
 
