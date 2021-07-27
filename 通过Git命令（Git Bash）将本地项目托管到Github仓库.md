@@ -79,7 +79,7 @@ git remote add [variable name] [Remote Server Link]
 ## 5、`git push`—————推送到您的远程存储库
 
 ```git
-`git push [variable name] master
+git push [variable name] master
 ```
 
 此命令将 `master`分支的已提交更改发送到您的远程存储库。
